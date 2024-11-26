@@ -227,3 +227,5 @@ const Homepage = new Homepage3D();
 Homepage.load3DModel("./src/3dModel/Origin.glb");
 Homepage.addText("EQUILIBRIUM", { x: 0, y: 0, z: -1 });
 /*Homepage.initGUI() //ATTIVARE SOLO IN CAO SI VUOLE VEDERE LA GUI PER MODIFICARE I PARAMETRI DELLA TEXTURE*/
+
+//Floriello Michele Gabriele
